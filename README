@@ -1,5 +1,5 @@
-Ray-tracing in a weekend
-URL: https://raytracing.github.io/books/RayTracingInOneWeekend.html
+Ray Tracing: The Next Week
+URL: https://raytracing.github.io/books/RayTracingTheNextWeek.html
 
 Dependencies:
 g++ (GCC) 11.1.0
