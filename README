@@ -1,4 +1,5 @@
 Realtime Ray-tracing in a weekend
+URL: https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
 Dependencies:
 g++ (GCC) 11.1.0
