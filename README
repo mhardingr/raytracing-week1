@@ -1,0 +1,10 @@
+Realtime Ray-tracing in a weekend
+
+Dependencies:
+g++ (GCC) 11.1.0
+
+How to compile:
+g++ main.cc -o render
+
+How to run:
+./render > <file>.ppm
